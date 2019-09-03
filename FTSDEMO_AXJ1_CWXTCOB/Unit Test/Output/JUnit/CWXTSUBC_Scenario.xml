@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.2.v20190729-0425_142?>
+<!--Topaz for Total Test 19.5.2.v20190729-0425_142 03-Sep-2019 13:59:24-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" tests="3">
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" tests="3">
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" tests="3">
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" tests="3">
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+</testsuites>

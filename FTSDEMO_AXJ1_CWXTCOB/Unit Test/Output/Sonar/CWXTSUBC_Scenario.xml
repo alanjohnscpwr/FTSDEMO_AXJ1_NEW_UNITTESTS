@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.2.v20190729-0425_142?>
+<!--Topaz for Total Test 19.5.2.v20190729-0425_142 03-Sep-2019 13:59:24-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00001: CWXTSUBCCase1.00003: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00002: CWXTSUBCCase2.00003: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00003: CWXTSUBCCase3.00003: Check for COMM_TOTAL"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTSUBC_Scenario.testscenario">
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00001: Check for EMP_TYPE"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00002: Check for SALES_AMOUNT"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTSUBC_Scenario.00004: CWXTSUBCCase4.00003: Check for COMM_TOTAL"/>
+  </file>
+</testExecutions>
